@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="912" height="574" viewBox="0 0 912 574">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Segoe UI,Arial,sans-serif;fill:#222}.small{font-size:11px}.label{font-size:12px}.head{font-size:13px;font-weight:600}.title{font-size:18px;font-weight:700}</style>
+<text x="18" y="28" class="title">band × front × chain_status heatmap (count)</text>
+<text x="18" y="50" class="small">Finite-sample lower_5pct exit-event rows. Front classes are based on last_before_exit_distance.</text>
+<text x="294.0" y="72" text-anchor="middle" class="head">avoid</text>
+<text x="422.0" y="72" text-anchor="middle" class="head">avoid_then_caught</text>
+<text x="550.0" y="72" text-anchor="middle" class="head">caught</text>
+<text x="678.0" y="72" text-anchor="middle" class="head">other</text>
+<text x="806.0" y="72" text-anchor="middle" class="head">NA</text>
+<line x1="12" x2="898" y1="78" y2="78" stroke="#d4d4cf" stroke-width="1"/>
+<text x="18" y="100" class="label">4-7 / lower_edge_front  n=2581</text>
+<rect x="230" y="82" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="358" y="82" width="122" height="27" rx="0" fill="#d5b0a1" stroke="#ffffff"/>
+<text x="419.0" y="101" text-anchor="middle" class="small">1025</text>
+<rect x="486" y="82" width="122" height="27" rx="0" fill="#c18c7c" stroke="#ffffff"/>
+<text x="547.0" y="101" text-anchor="middle" class="small">1556</text>
+<rect x="614" y="82" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="742" y="82" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<line x1="12" x2="898" y1="112" y2="112" stroke="#d4d4cf" stroke-width="1"/>
+<text x="18" y="134" class="label">8-15 / lower_edge_front  n=2583</text>
+<rect x="230" y="116" width="122" height="27" rx="0" fill="#9f4c37" stroke="#ffffff"/>
+<text x="291.0" y="135" text-anchor="middle" class="small">2527</text>
+<rect x="358" y="116" width="122" height="27" rx="0" fill="#f8f1e7" stroke="#ffffff"/>
+<text x="419.0" y="135" text-anchor="middle" class="small">47</text>
+<rect x="486" y="116" width="122" height="27" rx="0" fill="#f9f4ea" stroke="#ffffff"/>
+<text x="547.0" y="135" text-anchor="middle" class="small">9</text>
+<rect x="614" y="116" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="742" y="116" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<text x="18" y="168" class="label">8-15 / near_exit_front  n=161</text>
+<rect x="230" y="150" width="122" height="27" rx="0" fill="#f4eadf" stroke="#ffffff"/>
+<text x="291.0" y="169" text-anchor="middle" class="small">161</text>
+<rect x="358" y="150" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="486" y="150" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="614" y="150" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="742" y="150" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<line x1="12" x2="898" y1="180" y2="180" stroke="#d4d4cf" stroke-width="1"/>
+<text x="18" y="202" class="label">16-31 / lower_edge_front  n=814</text>
+<rect x="230" y="184" width="122" height="27" rx="0" fill="#e9d6ca" stroke="#ffffff"/>
+<text x="291.0" y="203" text-anchor="middle" class="small">456</text>
+<rect x="358" y="184" width="122" height="27" rx="0" fill="#edddd1" stroke="#ffffff"/>
+<text x="419.0" y="203" text-anchor="middle" class="small">356</text>
+<rect x="486" y="184" width="122" height="27" rx="0" fill="#f9f4ea" stroke="#ffffff"/>
+<text x="547.0" y="203" text-anchor="middle" class="small">2</text>
+<rect x="614" y="184" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="742" y="184" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<text x="18" y="236" class="label">16-31 / near_exit_front  n=1920</text>
+<rect x="230" y="218" width="122" height="27" rx="0" fill="#b47462" stroke="#ffffff"/>
+<text x="291.0" y="237" text-anchor="middle" class="small">1920</text>
+<rect x="358" y="218" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="486" y="218" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="614" y="218" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="742" y="218" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<text x="18" y="270" class="label">16-31 / deeper_front  n=10</text>
+<rect x="230" y="252" width="122" height="27" rx="0" fill="#f9f4ea" stroke="#ffffff"/>
+<text x="291.0" y="271" text-anchor="middle" class="small">10</text>
+<rect x="358" y="252" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="486" y="252" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="614" y="252" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="742" y="252" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<line x1="12" x2="898" y1="282" y2="282" stroke="#d4d4cf" stroke-width="1"/>
+<text x="18" y="304" class="label">32-63 / lower_edge_front  n=2204</text>
+<rect x="230" y="286" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="358" y="286" width="122" height="27" rx="0" fill="#ab634f" stroke="#ffffff"/>
+<text x="419.0" y="305" text-anchor="middle" class="small">2182</text>
+<rect x="486" y="286" width="122" height="27" rx="0" fill="#f9f3e9" stroke="#ffffff"/>
+<text x="547.0" y="305" text-anchor="middle" class="small">22</text>
+<rect x="614" y="286" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="742" y="286" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<text x="18" y="338" class="label">32-63 / near_exit_front  n=285</text>
+<rect x="230" y="320" width="122" height="27" rx="0" fill="#efe1d6" stroke="#ffffff"/>
+<text x="291.0" y="339" text-anchor="middle" class="small">285</text>
+<rect x="358" y="320" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="486" y="320" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="614" y="320" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="742" y="320" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<line x1="12" x2="898" y1="350" y2="350" stroke="#d4d4cf" stroke-width="1"/>
+<text x="18" y="372" class="label">64-127 / lower_edge_front  n=1615</text>
+<rect x="230" y="354" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="358" y="354" width="122" height="27" rx="0" fill="#c28d7c" stroke="#ffffff"/>
+<text x="419.0" y="373" text-anchor="middle" class="small">1549</text>
+<rect x="486" y="354" width="122" height="27" rx="0" fill="#f7f0e6" stroke="#ffffff"/>
+<text x="547.0" y="373" text-anchor="middle" class="small">66</text>
+<rect x="614" y="354" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="742" y="354" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<text x="18" y="406" class="label">64-127 / near_exit_front  n=139</text>
+<rect x="230" y="388" width="122" height="27" rx="0" fill="#f8f3e9" stroke="#ffffff"/>
+<text x="291.0" y="407" text-anchor="middle" class="small">28</text>
+<rect x="358" y="388" width="122" height="27" rx="0" fill="#f6eee3" stroke="#ffffff"/>
+<text x="419.0" y="407" text-anchor="middle" class="small">102</text>
+<rect x="486" y="388" width="122" height="27" rx="0" fill="#f9f4ea" stroke="#ffffff"/>
+<text x="547.0" y="407" text-anchor="middle" class="small">9</text>
+<rect x="614" y="388" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="742" y="388" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<line x1="12" x2="898" y1="418" y2="418" stroke="#d4d4cf" stroke-width="1"/>
+<text x="18" y="440" class="label">128-255 / lower_edge_front  n=197</text>
+<rect x="230" y="422" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="358" y="422" width="122" height="27" rx="0" fill="#f5ece1" stroke="#ffffff"/>
+<text x="419.0" y="441" text-anchor="middle" class="small">134</text>
+<rect x="486" y="422" width="122" height="27" rx="0" fill="#f7f0e6" stroke="#ffffff"/>
+<text x="547.0" y="441" text-anchor="middle" class="small">63</text>
+<rect x="614" y="422" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="742" y="422" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<text x="18" y="474" class="label">128-255 / near_exit_front  n=44</text>
+<rect x="230" y="456" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="358" y="456" width="122" height="27" rx="0" fill="#f8f2e8" stroke="#ffffff"/>
+<text x="419.0" y="475" text-anchor="middle" class="small">38</text>
+<rect x="486" y="456" width="122" height="27" rx="0" fill="#f9f4ea" stroke="#ffffff"/>
+<text x="547.0" y="475" text-anchor="middle" class="small">6</text>
+<rect x="614" y="456" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="742" y="456" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<line x1="12" x2="898" y1="486" y2="486" stroke="#d4d4cf" stroke-width="1"/>
+<text x="18" y="508" class="label">256-511 / lower_edge_front  n=3</text>
+<rect x="230" y="490" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="358" y="490" width="122" height="27" rx="0" fill="#f9f4ea" stroke="#ffffff"/>
+<text x="419.0" y="509" text-anchor="middle" class="small">1</text>
+<rect x="486" y="490" width="122" height="27" rx="0" fill="#f9f4ea" stroke="#ffffff"/>
+<text x="547.0" y="509" text-anchor="middle" class="small">2</text>
+<rect x="614" y="490" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<rect x="742" y="490" width="122" height="27" rx="0" fill="#f7f7f5" stroke="#ffffff"/>
+<text x="18" y="544" class="small">count mode uses absolute cell counts; share mode normalizes within each band/front row.</text>
+<text x="18" y="561" class="small">No mechanism, causality, proof, or global Collatz behavior is implied.</text>
+</svg>
